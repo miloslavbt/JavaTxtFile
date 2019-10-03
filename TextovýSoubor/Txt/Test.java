@@ -53,7 +53,6 @@ public class Test
     else if(vyber.equals("w")){    
         
        BufferedWriter bWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(filePath),fileEncoding));
-        
         Scanner sc1 = new Scanner(System.in);
         System.out.println("Zadej text:");
         String text = sc1.nextLine();

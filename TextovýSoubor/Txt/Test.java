@@ -16,11 +16,7 @@ import java.util.Scanner;
  */
 public class Test
 {
-    /***************************************************************************
-     * Metoda, prostřednictvím níž se spouští celá aplikace.
-     *
-     * @param args Parametry příkazového řádku
-     */
+
     public static void main(String[] args)throws FileNotFoundException, UnsupportedEncodingException, IOException 
     {
     
